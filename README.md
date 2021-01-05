@@ -1,64 +1,78 @@
-<h1>Project Details</h1>
+<h1 style="text-align:center;">Project Details</h1>
 
->> Why this simple project <<
-This project for completing programming hero course assignment but not only completing assignment but also learn somthing new. It is my first time create protfolio website.
+<h2> Why this simple project </h2>
+<p>This project for completing programming hero course assignment but not only completing assignment but also learn somthing new. It is my first time create protfolio website.</p>
 
->>> Requirment For This Project <<<
+<h2> Requirment For This Project </h2>
 
-1=> Hello section. This section welcome visitor. In this section use :
-> Two div tag.
-> One image tag.
-> One button tag. 
-> One heading tag.
-> One paragraph tag.
-> If I want I use extra heading tag or pargraph tag. But also not change design.
+<p> Hello section. This section welcome visitor. In this section use :</p>
+<ul>
+<li>Two div tag.</li>
+<li>One image tag.</li>
+<li>One button tag.</li>
+<li>One heading tag.</li>
+<li>One paragraph tag.</li>
+<li>If I want I use extra heading tag or pargraph tag. But also not change design.</li>
+</ul>
+<p> About Section. This section contain details about me. In this section use:</p>
+<ul>
+<li>Two div tag.</li>
+<li>One image tag.</li>
+<li>One button tag.</li>
+<li>One heading tag.</li>
+<li>One paragraph tag.</li>
+<li>If I want I use extra heading tag or paragraph tag. But also not change design.</li>
+</ul>
 
-2 => About Section. This section contain details about me. In this section use:
-> Two div tag.
-> One image tag.
-> One button tag.
-> One heading tag.
-> One paragraph tag.
-> If I want I use extra heading tag or paragraph tag. But also not change design.
+<p>Project section. This section contain details about my project. In this section use:</p>
+<ul>
+<li>Atleast 3 img tag.</li>
+<li>Each image tag with heading tag.f</li>
+<li> Every image with some details with paragraph tag</li>
+</ul>
 
-3 => Project section. This section contain details about my project. In this section use:
-> Atleast 3 img tag.
-> Each image tag with heading tag.
-> Every image with some details with paragraph tag
+<p>Work Inquiry section. This section ask visitor for chat. In this section use:</p> 
+<ul>
+<li> One heading tag</li>
+<li> One button tag</li>
+</ul>
 
-4 => Work Inquiry section. This section ask visitor for chat. In this section use: 
-> One heading tag
-> One button tag
+<h2> Optional Section From Jhankar Mhabub </h2>
 
->>> Optional Section From Jhankar Mhabub <<<
+<p> Nav bar. This section will be creating by nav tag. Atleast 4 option and highest 5 option for this section.</p>
+<ul>
+<li> Use ul or ol tag</li>
+<li>> Use anchor tag inside li tag</li>
+</ul>
 
-1 => Nav bar. This section will be creating by nav tag. Atleast 4 option and highest 5 option for this section.
-> Use ul or ol tag
-> Use anchor tag inside li tag
+<p>Footer. This section will be creating by footer tag. In this section absulote use my email account for contact with visitor.</p>
+<ul>
+<li> Use paragraph or small heading for writing email account</li>
+<li> Use ul tag for icon.</li>
+<li> Use anchor tag inside li tag.</li>
+<li> Use image tag inside anchor tag for icon.</li>
 
-2 => Footer. This section will be creating by footer tag. In this section absulote use my email account for contact with visitor.
-> Use paragraph or small heading for writing email account
-> Use ul tag for icon.
-> Use anchor tag inside li tag.
-> Use image tag inside anchor tag for icon.
-
->>> Add Some Section From Me <<<
->> it not defines now
+<h2 style="text-align:center;color: crimson;"> Add Some Section From Me </h2>
+<p> it not defines now<p>
 
 
->>> Use Tools Warning <<<
+<h1> Use Tools Warning </h1>
 
->>> Which Thing I can't Use. <<<
-1 => Any framework and library like bootstrap and react.
-2 => Any Prepocesor tools like SASS.
-3 => JavaScript
-4 => CSS flex and Gird. It not fully unallowed. If i can't not use it this thing good for me.
-5 => Extra picture which can't related this picture.
-6 => 2 Picture which provie images folder. One is "do not use this pic.png" and another is "do not use this pic2.png". Also add my picture but only most be use background shapes which provide inside shapes folder.
+<h2> Which Thing I can't Use. </h2>
+<ol>
+<li> Any framework and library like bootstrap and react.</li>
+<li> Any Prepocesor tools like SASS. </li>
+<li> JavaScript. </li>
+<li> CSS flex and Gird. It not fully unallowed. If i can't not use it this thing good for me. </li>
+<li> Extra picture which can't related this picture. </li>
+<li> 2 Picture which provie images folder. One is "do not use this pic.png" and another is "do not use this pic2.png". Also add my picture but only most be use background shapes which provide inside shapes folder. </li>
+</ol>
 
->>> Which Tools I Can Use <<<
-1 => Html tag which cover module 1 to 4 inside the milestone 1.
-2 => If I can use css grid and css flex it not good for me.
+<h2> Which Tools I Can Use </h2>
+<ol>
+<li> Html tag which cover module 1 to 4 inside the milestone 1.</li>
+<li> If I can use css grid and css flex it not good for me.</li>
+</ol>
 
->>> Limition This Project <<<
-1 => This project will be design following figma file , png and pdf file. If I want change design I do it but also focus this can't change full design.
+<h2> Limition This Project </h2>
+<p> This project will be design following figma file , png and pdf file. If I want change design I do it but also focus this can't change full design. </p>
