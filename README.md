@@ -1,4 +1,4 @@
->Project Details<
+<h1>Project Details</h1>
 
 >> Why this simple project <<
 This project for completing programming hero course assignment but not only completing assignment but also learn somthing new. It is my first time create protfolio website.
