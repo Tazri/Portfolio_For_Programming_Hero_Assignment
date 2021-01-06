@@ -5,7 +5,7 @@
 }
 
 body{
-    min-width: 860px;
+    min-width: 1000px;
     max-width: 2000px;
     font-family: 'Roboto';
 }
@@ -211,3 +211,96 @@ button span{
     width: 100%;
 }
 /* Start Design Contact Section */
+
+/* Start Design Skill Section */
+
+#skill-section{
+    min-height: 300px;
+    height: 80vh;
+    max-height: 400px ;
+    width: 100%;
+}
+
+.skill{
+    margin-bottom: 10px;
+}
+
+.skill h2{
+    width: 50px;
+    font-size: 20px;
+    color: rgb(29, 19, 88);
+}
+
+.skill-name{
+    margin-right: 12px;
+}
+.skill-scale{
+    width: 200px;
+    height: 20px;
+    border-left: rgb(231, 78, 78);
+}
+
+.skill-scale div{
+    height: 100%;
+    background-color: rgb(211, 77, 104);
+}
+
+#html{
+    width: 180px;
+}
+
+#css{
+    width: 140px;
+}
+
+#js{
+    width: 120px; 
+}
+
+#react{
+    width: 40px;
+}
+
+.skill-scale,.skill h2{
+    display: inline-block;
+}
+
+/* End Design Skill Section */
+
+/* Start Design Form Section */
+
+#form-section{
+    min-height: 320px;
+    height: 80vh;
+    max-height: 350px ;
+    width: 100%;
+}
+
+#email{
+    width: 95%;
+    height: 40px;
+    margin-bottom: 20px;
+    padding-left: 5px;
+    border: 1px solid rgb(255, 163, 140);
+    color: rgb(9, 2, 56);
+    font-size: 15px;
+    border-radius: 6px;
+}
+
+input:focus, textarea{
+    outline: none;
+}
+
+#message{
+    width: 95%;
+    height: 100px;
+    resize: none;
+    padding: 5px;
+    border: 1px solid rgb(255, 163, 140);
+    color: rgb(9, 2, 56);
+    font-size: 15px;
+    border-radius: 6px;
+    overflow: auto;
+}
+
+/* End Design Form Section */

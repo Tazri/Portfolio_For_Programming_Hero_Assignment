@@ -53,7 +53,22 @@
 <li> Use image tag inside anchor tag for icon.</li>
 
 <h2 style="text-align:center;color: crimson;"> Add Some Section From Me </h2>
-<p> it not defines now<p>
+<ul>
+<p> Skill Section. This section create for show my skill measurement. Visitor see my skill measurement.</p>
+<ul>
+<li> Two Main div </li>
+<li> One h1 tag and one p tag inside first div tag </li>
+<li> Eight h3 tag . Four h3 tag for skill name and four h3 tag for show skill measurement </li>
+<li> 4 div and every div inside one more div </li>
+</ul>
+
+<p> Message Section. This section create for visitor send me a message. </p>
+
+<ul>
+<li> Two main div </li>
+<li> One input tag and one textarea tag. Inside first div tag</li>
+<li> One heading tag and one p tag inside another div tag </li>
+</ul>
 
 
 <h1> Use Tools Warning </h1>
