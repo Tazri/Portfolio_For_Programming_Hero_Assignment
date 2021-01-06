@@ -5,6 +5,8 @@
 }
 
 body{
+    min-width: 860px;
+    max-width: 2000px;
     font-family: 'Roboto';
 }
 
@@ -32,10 +34,10 @@ nav ul li a{
 /* Start Hello Design Section */
 .half-part{
     width: 40%;
-    max-width: 600px;
+    max-width: 800px;
     padding: 80px 40px;
     float: left;
-    margin: 0% 4% ;
+    margin: 0% 5% ;
 }
 
 .half-part h1{
@@ -79,12 +81,14 @@ button span{
     min-height: 500px;
     height: 80vh;
     max-height: 600px ;
+    width: 100%;
 }
 
 .about-section{
     min-height: 600px;
     height: 80vh;
     max-height: 700px;
+    width: 100%;
 }
 
 /* End Hello Design Section */
@@ -92,7 +96,7 @@ button span{
 /* Start Design Project Section */
 .project-section{
     width: 100%;
-    min-height: 500px;
+    min-height: 550px;
     clear: both;
     background-color: #f8f9fc ;
 }
@@ -112,15 +116,15 @@ button span{
 }
 
 .projects-container{
-    padding: 20px 0px;
+    padding: 15px 0px;
     text-align: center;
 }
 
 .project-div{
     display: inline-block;
     width: 20%;
-    min-width: 290px;
-    min-height: 300px;
+    min-width: 270px;
+    height: 300px;
     background-color: white;
     border-radius: 10px;
     padding: 10px;
@@ -149,3 +153,61 @@ button span{
     text-align: center;
     color:  rgb(82, 16, 0);
 }
+
+/* End Design Project Section */
+
+/* Start Design Work Inquiry */
+
+.work-inquiry-section{
+    background-color: white;
+    padding: 70px 40px 40px 30px;
+}
+
+.work-inquiry-section div{
+    margin: auto;
+    width: 726px;
+    height: 225px;
+    padding: 0px 20px;
+    background-image: url(../shapes/Group_33094_1.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.work-inquiry-section h1{
+    color: white;
+    font-size: 30px;
+    display: inline-block;
+    margin-top: 70px;
+    height: 100%;
+    margin-right: 260px;
+}
+
+/* End Design Work Inquiry */
+#contact-section{
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 45 ;
+}
+
+#contact-section h4{
+    font-size: 15px;
+    margin-bottom: 5px;
+    color: #696871;
+}
+
+#contact-section h3{
+    font-size: 26px;
+    color:  rgb(9, 2, 56);
+    margin-bottom: 5px;
+}
+
+#contact-section div div{
+    display: inline-block;
+    width: 30px;
+    margin: 0px 10px;
+}
+
+#contact-section div div img{
+    width: 100%;
+}
+/* Start Design Contact Section */
